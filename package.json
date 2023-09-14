@@ -1,0 +1,12 @@
+{
+  "name": "com.ncdev.third-party-notices-generator",
+  "version": "0.1.0",
+  "displayName": "Third Party Notices Generator",
+  "description": "This is a tool designed for generating third-party notices for your Unity project. It helps you create a list of third-party packages used in your project, making it easier to comply with licensing requirements and provide proper attribution.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Nikita Cherniadev",
+    "email": "nikita.chernyadev@gmail.com",
+    "url": "https://github.com/chernyadev"
+  }
+}
